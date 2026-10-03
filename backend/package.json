@@ -1,0 +1,11 @@
+{
+  "name": "gb-172-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Health API for Password Toolbox Docker deployment",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
